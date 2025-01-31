@@ -8,4 +8,4 @@ When the spinner lands on a random category, a question from that category appea
 
 Players have three chances to make a mistake; after the third incorrect answer, the game ends.
 
-At the conclusion of the game, the player's total score, based on the number of correct answers, is displayed on the scre
+At the conclusion of the game, the player's total score, based on the number of correct answers, is displayed on the screen
